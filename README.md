@@ -26,3 +26,11 @@
 🎯 Objetivo Profesional: 
 Contribuir a proyectos desafiantes como desarrollador Full-Stack,
 combinando mi pasión por el código limpio y la innovación.
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=diegojimenez1029&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegojimenez1029&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=diegojimenez1029&color=blueviolet)

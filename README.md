@@ -1,6 +1,6 @@
 # 👋 Hola, soy Diego Jiménez Gálvez
 
-![Avatar o Fotografía](assets/img/avatar.jpg)  
+![Avatar o Fotografía](assets/img/fotoperfil.jpg)  
 
 ### 🔍 Sobre Mí  
 - **Intereses:** Desarrollo web, IA, diseño UX/UI.  
